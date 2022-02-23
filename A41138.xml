@@ -1,0 +1,663 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fable of the sun and frogs, in elegant Latin verse, applyed to the present state of affairs between the French and Dutch. With three several translations in English, by three several hands. The first nearer the Latin; the other two allowing themselves a greater liberty of phansie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41138</idno>
+            <idno type="STC">Wing F70A</idno>
+            <idno type="STC">ESTC R213680</idno>
+            <idno type="EEBO-CITATION">99826002</idno>
+            <idno type="PROQUEST">99826002</idno>
+            <idno type="VID">30394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fable of the sun and frogs, in elegant Latin verse, applyed to the present state of affairs between the French and Dutch. With three several translations in English, by three several hands. The first nearer the Latin; the other two allowing themselves a greater liberty of phansie.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Gilbert bookseller, at the half Moon in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fables, Latin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30394:1"/>
+            <!-- PDF PAGE 54 -->
+            <pb facs="tcp:30394:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <p>THE FABLE OF THE Sun and Frogs, IN <hi>ELEGANT LATIN VERSE,</hi> Applyed To the preſent State of Affairs BETWEEN THE FRENCH and DUTCH. WITH Three ſeveral <hi>TRANSLATIONS</hi> in <hi>ENGLISH,</hi> by three ſeveral Hands.</p>
+            <p>The firſt <hi>nearer</hi> the <hi>Latin;</hi> the other two allowing themſelves a greater <hi>Liberty</hi> of <hi>Phanſie.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Gilbert</hi> Bookſeller, at the <hi>half Moo<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in <hi>Pauls Church-yard.</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="text">
+            <pb facs="tcp:30394:2"/>
+            <!-- PDF PAGE 55 -->
+            <pb n="1" facs="tcp:30394:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <div xml:lang="lat" type="poem">
+               <head>Appendix <hi>ad</hi> Fabulas Phoedri <hi>ex</hi> Biblio<g ref="char:EOLhyphen"/>theca Leidenſi.</head>
+               <epigraph>
+                  <q>
+                     <p>
+                        <hi>Servare</hi> potui, <hi>Perdere</hi> an poſſim, rogas?</p>
+                     <bibl>Sen. Med.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <hi>SOL</hi> &amp; <hi>RANAE.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>
+                        <seg rend="decorInit">R</seg>Anae Paludis</hi> Incolae, <hi>ambiguum</hi> Genus,</l>
+                  <l>
+                     <hi>Limo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> cretum, <hi>Res</hi> in immenſum ſuas</l>
+                  <l>Favore <hi>Solis</hi> auxerant: Etiam <hi>Boves</hi>
+                  </l>
+                  <l>Vicina circum qui tondebant Gramina,</l>
+                  <l>Ipſaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Ripis pepulerunt Metu <hi>Feras.</hi>
+                  </l>
+                  <l>Quinſe <hi>profundo</hi> credere auſae Gurgiti</l>
+                  <l>Facto, <hi>Siluros</hi> at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Thynnos,</hi> Agmine</l>
+                  <l>Et <hi>provocarant</hi> ſaepe, &amp; ſaepe <hi>Vicerant.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Hinc <hi>Faſtus</hi> illas cepit &amp; <hi>Superbia,</hi>
+                  </l>
+                  <l>Majuſque Crimen <hi>Gratiarum Oblivio.</hi>
+                  </l>
+                  <l>
+                     <hi>Patroni Solis</hi> invidere <hi>Gloriae,</hi>
+                  </l>
+                  <l>Ingrata <hi>Gens</hi> occepit; &amp; liventibus</l>
+                  <l>Oculis tueri Mundo <hi>adoratum</hi> Jubar;</l>
+                  <l>Nec ſe protervis abſtinent <hi>Convitiis.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nam ſive ad <hi>Indi</hi> Littora obvertit <hi>Rotas;</hi>
+                  </l>
+                  <l>Equos <hi>Ibero</hi> ſive lavit Flumine;</l>
+                  <l>Sive arduam <hi>Leonis</hi> aſcendit <hi>Domum;</hi>
+                  </l>
+                  <l>
+                     <hi>Lunaeve</hi> Radiis <hi>Cornua</hi> aſperſit ſuis;</l>
+                  <l>
+                     <hi>Ranae</hi> coaxant, &amp; Clamore incondito</l>
+                  <l>Queruntur omnia <hi>perdere:</hi> Ultrices ſimul</l>
+                  <l>Minantur <hi>Iras,</hi> ni ſtet <hi>immotus</hi> Polo.</l>
+               </lg>
+               <lg>
+                  <l>Pergenti Curru flammeo non ſegnius</l>
+                  <l>Luſtrare <hi>Terras,</hi> perfidae tentant Viam</l>
+                  <l>Obſtruere: Fundo ab imo Caenoſos <hi>Lacus,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>lvaſque</hi> putres, &amp; Solo reſides Aquas</l>
+                  <l>
+                     <pb n="2" facs="tcp:30394:3"/>
+                     <!-- PDF PAGE 56 -->
+Pedibus <hi>petulcis</hi> commovent. Coelo <hi>Vapor,</hi>
+                  </l>
+                  <l>Conſurgit ater; &amp; Diem <hi>Caligine</hi>
+                  </l>
+                  <l>Extinguit almum: Riſit <hi>Aſtrorum Parens;</hi>
+                  </l>
+                  <l>Et iſta Veſtrum <hi>Tela</hi> recident in <hi>Caput,</hi>
+                  </l>
+                  <l>
+                     <hi>Procaces,</hi> inquit, <hi>Beſtiae!</hi> Ergo colligit</l>
+                  <l>
+                     <hi>Radios,</hi> Vireſque totas; inque <hi>Fulmina</hi>
+                  </l>
+                  <l>
+                     <hi>Vapores</hi> nubilos denſam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Grandinem</hi>
+                  </l>
+                  <l>Momento vertit, &amp; miſeras triſti opprimit</l>
+                  <l>
+                     <hi>RANAS</hi> Procella. Fruſtra <hi>Juncis</hi> Corpora</l>
+                  <l>Certant opacis tegere: fruſtra ſub <hi>Luto</hi>
+                  </l>
+                  <l>Defoſſae ſperant publica <hi>Strage</hi> eripi.</l>
+                  <l>
+                     <hi>SOL</hi> Radiis haurit <hi>Cuncta;</hi> &amp; ipſas <hi>Ignibus</hi>
+                  </l>
+                  <l>Abſumit <hi>
+                        <g ref="char:V">Ʋ</g>ndas. RANAE</hi> ſemiuſtae crepant;</l>
+                  <l>
+                     <hi>Milviſque</hi> &amp; <hi>Corvis</hi> dulce praebent <hi>Pabulum.</hi>
+                  </l>
+                  <l>Quarum <hi>una</hi> fertur caeteris <hi>Conſultior</hi>
+                  </l>
+                  <l>Dixiſſe <hi>Moriens:</hi> Jam <hi>Poenas</hi> exſolvimus,</l>
+                  <l>Quae <hi>bene</hi> de nobis meritis reddidimus, <hi>Mala.</hi>
+                  </l>
+                  <l>At vos, <hi>Nepotes,</hi> diſcite <hi>Vereri DEOS.</hi>
+                  </l>
+               </lg>
+               <argument>
+                  <p>
+                     <bibl>Juxta <hi>Exemplar</hi> Editum <hi>Amſte<g ref="char:EOLhyphen"/>lodami</hi> ad Inſigne <hi>Joſua.</hi>
+                     </bibl>
+                  </p>
+               </argument>
+            </div>
+            <div xml:lang="eng" type="translation">
+               <pb n="3" facs="tcp:30394:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->
+               <head>The firſt Tranſlation.</head>
+               <head type="sub">An <hi>Appendix</hi> to <hi>Phoedrus</hi> his <hi>Fables,</hi> as it was lately taken out of the Library at <hi>Leyden.</hi>
+               </head>
+               <epigraph>
+                  <q>
+                     <l>I could <hi>preſerve</hi> ye; do ye doubt</l>
+                     <l>Whether <hi>I</hi> now can <hi>root</hi> ye <hi>out?</hi>
+                     </l>
+                     <bibl>
+                        <hi>Sen. Med.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <hi>The</hi> SUN <hi>and</hi> FROGS.</head>
+               <lg>
+                  <l>THe <hi>Frogs,</hi> thoſe <hi>Fenniſh</hi> People, as from <hi>Earth</hi>
+                  </l>
+                  <l>And <hi>Water</hi> mixt in <hi>Mud,</hi> deriving <hi>Birth,</hi>
+                  </l>
+                  <l>So in <hi>both</hi> Elements <hi>Commerce</hi> maintain,</l>
+                  <l>From <hi>this</hi> to <hi>that,</hi> from <hi>that</hi> to <hi>this</hi> again.</l>
+                  <l>
+                     <hi>Perſia</hi>'s old <hi>God,</hi> and <hi>France</hi>'s new <hi>Device</hi>
+                  </l>
+                  <l>The <hi>Sun,</hi> with friendly Beam theſe multiplies;</l>
+                  <l>Nor their <hi>Eſtate</hi> augments leſs than <hi>themſelves,</hi>
+                  </l>
+                  <l>Till <hi>high</hi> and <hi>mighty</hi> grow th' <hi>amphibion</hi> Elves,</l>
+                  <l>Dreadful at <hi>Sea</hi> and <hi>Land:</hi> Here, round their Lakes,</l>
+                  <l>Fear <hi>tame</hi> Beaſts <hi>wild,</hi> and <hi>wild</hi> Beaſts <hi>wilder</hi> makes:</l>
+                  <l>There <hi>Tunnies</hi> they and <hi>Whales</hi> oft <hi>ſet upon;</hi>
+                  </l>
+                  <l>
+                     <hi>Tunnies</hi> and <hi>Whales</hi> as oft they <hi>overcome.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Hence ſwell'd with <hi>Pride,</hi> and a vain <hi>ſelf</hi>-conceit,</l>
+                  <l>Their nobleſt <hi>Benefactors</hi> they forget:</l>
+                  <l>Yea, from-<hi>blew.</hi> Eyes dart <hi>envious</hi> looks upon</l>
+                  <l>The glitt'ring <hi>Grandeur</hi> of their <hi>Patron S<g ref="char:V">Ʋ</g>N:</hi>
+                  </l>
+                  <l>And like <hi>baſe Mud,</hi> in terms of vile Diſgrace,</l>
+                  <l>Throw vile <hi>Aſperſions</hi> in his <hi>glorious</hi> Face.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:30394:4"/>
+                  <!-- PDF PAGE 57 -->
+                  <l>For whether he to the Rich <hi>Indies</hi> drive</l>
+                  <l>His flaming Chariot, or his Horſes dive</l>
+                  <l>In the <hi>Iberian</hi> Floud; or elſe reſort</l>
+                  <l>Unto the Princely <hi>Lion</hi>'s Royal Court;</l>
+                  <l>Or laſt of all, his <hi>native</hi> Shine diſplay</l>
+                  <l>Upon the growing <hi>Moon</hi> her <hi>borrow'd</hi> Ray:</l>
+                  <l>Theſe <hi>croaking</hi> Creatures, in their <hi>uncouth</hi> ſtrain,</l>
+                  <l>That all before him he <hi>deſtroys</hi> complain.</l>
+                  <l>Bidding his <hi>Sunſhip</hi> threaten'd Vengeance fear,</l>
+                  <l>Unleſs with ſpeed he ſtop his ſwift Career.</l>
+                  <l>Such <hi>threats</hi> no <hi>checks</hi> are to his <hi>Steeds,</hi> but <hi>ſpurs,</hi>
+                  </l>
+                  <l>To hurry on his fiery Chariots courſe.</l>
+               </lg>
+               <lg>
+                  <l>This ſeen; theſe treach'rous Vermin ſtrive in vain,</l>
+                  <l>Themſelves to give ſtop to his whirling Wain.</l>
+                  <l>With buſie Feet their muddy Ponds they trouble,</l>
+                  <l>And make foul Water every where to bubble</l>
+                  <l>Among the putrid Reeds: ſtreight to the Skies,</l>
+                  <l>From pudly Marſhes doth a dark Fog riſe</l>
+                  <l>Effacing Day. <hi>Sol,</hi> laughing at their Toil,</l>
+                  <l>Theſe <hi>weapons,</hi> ſaith, ſhall on your ſelves recoil,</l>
+                  <l>Poor peeviſh <hi>Animals!</hi> Then Arms he all</l>
+                  <l>His ſtrongeſt Beams, which in full Bodies fall</l>
+                  <l>Among thoſe Fogs; ſo in a trice transforms</l>
+                  <l>(Such <hi>power</hi> have <hi>Gods</hi>) all to impet'ous Storms</l>
+                  <l>Of ſulph'ry <hi>Thunderbolts,</hi> and ratling <hi>Hail;</hi>
+                  </l>
+                  <l>Then doth with theſe the wretched <hi>Frogs</hi> aſſail.</l>
+               </lg>
+               <lg>
+                  <l>In vain they <hi>ſhade</hi> and <hi>ſhelter,</hi> at this need,</l>
+                  <l>From broken <hi>Bulruſh</hi> ſeek, and batter'd <hi>Reed;</hi>
+                  </l>
+                  <l>In vain in Water <hi>dive, delve</hi> into Mud,</l>
+                  <l>Which nor ſuch <hi>ſuppliants,</hi> nor <hi>themſelves,</hi> long could</l>
+                  <l>Preſerve from Ruine, by ſuch raging heat</l>
+                  <l>Wherewith the incenſed <hi>King</hi> of <hi>Stars</hi> then beat</l>
+                  <l>In upon both. Their <hi>own,</hi> or <hi>other</hi> Mens.</l>
+                  <l>The <hi>Dutch</hi> ne're dreyn'd, as <hi>Phaebus</hi> theſe <hi>Frogs</hi> Fens.</l>
+                  <l>
+                     <pb n="5" facs="tcp:30394:4" rendition="simple:additions"/>
+                     <!-- PDF PAGE 57 -->
+So's the <hi>Houſe</hi> ruin'd where the <hi>Traytor</hi>'s found;</l>
+                  <l>Storm'd <gap reason="illegible: bleedthrough" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to ground.</l>
+               </lg>
+               <lg>
+                  <l>A Feaſt of <hi>Boyl'd, Roſt, Bakt,</hi> now ſmell't, invites</l>
+                  <l>(Lips for ſuch <hi>Lettied</hi>) Ravenous <hi>Crows</hi> and <hi>Kites.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When a <hi>grave Frog,</hi> much wiſer than the Rout,</l>
+                  <l>Midſt her expiring Kindred all about,</l>
+                  <l>Was heard to fay, This, this, juſt <hi>Heaven,</hi> we feel</l>
+                  <l>For ſo much <hi>good</hi> repaid with ſo much <hi>ill.</hi>
+                  </l>
+               </lg>
+               <epigraph>
+                  <q>
+                     <l>You of our <hi>Tribe,</hi> who in <hi>remote</hi> Abodes</l>
+                     <l>Survive this <hi>Day, learn to revere the GOD'S.</hi>
+                     </l>
+                  </q>
+               </epigraph>
+               <argument>
+                  <p> According to the <hi>Copy</hi> Printed at <hi>Amſterdam,</hi> at the <hi>Sign</hi> of the <hi>Joſua.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="translation">
+               <pb n="6" facs="tcp:30394:5"/>
+               <!-- PDF PAGE 58 -->
+               <head>The ſecond Tranſlation.</head>
+               <epigraph>
+                  <q>
+                     <l>
+                        <hi>High</hi> and <hi>Mighty</hi> I who made ye,</l>
+                     <l>From that <hi>Height</hi> can now <hi>degrade</hi> ye.</l>
+                     <bibl>Sen. Med.</bibl>
+                  </q>
+               </epigraph>
+               <head>The <hi>SUN</hi> and <hi>FROGS.</hi>
+               </head>
+               <lg>
+                  <l>THe <hi>ſpeckled</hi> Tribe, ſprung from the <hi>womb</hi> of <hi>ſlime,</hi>
+                  </l>
+                  <l>Their <hi>Parent S<g ref="char:V">Ʋ</g>N</hi> proclaim in <hi>croaking</hi> rhime;</l>
+                  <l>Their <hi>Birth</hi> and <hi>ſtore</hi> own from his gentle Ray,</l>
+                  <l>And to his <hi>dance</hi> about the World they <hi>play.</hi>
+                  </l>
+                  <l>They <hi>play,</hi> and <hi>ſing</hi> with golden Throats an <hi>Ode</hi>
+                  </l>
+                  <l>To the proud <hi>Perſians,</hi> and <hi>their</hi> common <hi>God;</hi>
+                  </l>
+                  <l>Whoſe <hi>kindly</hi> influence <hi>rais'd</hi> their daring Heads,</l>
+                  <l>From no leſs <hi>mean</hi> and <hi>low,</hi> than <hi>loathſome</hi> Beds:</l>
+                  <l>Rais'd 'em ſo <hi>high,</hi> that when <hi>Alarms</hi> they ſound,</l>
+                  <l>
+                     <hi>Tame</hi> and <hi>wild</hi> Beaſts are ſcar'd from neighb'ring Ground:</l>
+                  <l>And the <hi>Goliahs</hi> of the <hi>watry</hi> Field,</l>
+                  <l>To their puiſſant ſholes oft forc'd to yield.</l>
+               </lg>
+               <lg>
+                  <l>Hence ſwelling leſs with <hi>Venom</hi> than with <hi>Pride,</hi>
+                  </l>
+                  <l>Their <hi>mean Original</hi> they fain would <hi>hide:</hi>
+                  </l>
+                  <l>Creatures of <hi>Sun</hi> and <hi>Slime, proudly</hi> forget</l>
+                  <l>The one, <hi>ungratefully</hi> the other treat.</l>
+                  <l>
+                     <hi>Croak</hi> in <hi>harſh</hi> numbers from their noiſome Seat,</l>
+                  <l>Till <hi>hoarſe</hi> with <hi>wrangling</hi> at <hi>indulgent</hi> heat;</l>
+                  <l>If unconfin'd to their <hi>impoyſon'd</hi> Streams,</l>
+                  <l>They vye not <hi>circuit</hi> with thoſe <hi>heavenly</hi> Beams.</l>
+               </lg>
+               <lg>
+                  <l>Let but the <hi>S<g ref="char:V">Ʋ</g>N</hi> wheel to the <hi>Indian</hi> Brine,</l>
+                  <l>The large <hi>Iberus,</hi> or the <hi>parched Line;</hi>
+                  </l>
+                  <l>The <hi>Prince</hi> of <hi>Stars</hi> viſit that <hi>Lion</hi>'s Den,</l>
+                  <l>That's <hi>King</hi> of the beſt <hi>Beaſts,</hi> and braveſt <hi>Men;</hi>
+                  </l>
+                  <l>
+                     <pb n="7" facs="tcp:30394:5" rendition="simple:additions"/>
+                     <!-- PDF PAGE 58 -->
+Or let him proudly drown the <hi>Turkiſh</hi> Moon,</l>
+                  <l>With vaſter Torrents of his Luſtier <hi>Noon;</hi>
+                  </l>
+                  <l>Loudly they clamor, that he doth none <hi>good,</hi>
+                  </l>
+                  <l>(Becauſe not ſhining only on their <hi>Mud.</hi>)</l>
+                  <l>Nay, <hi>Tyrant</hi> like, merely to make him ſport,</l>
+                  <l>That with <hi>inſulting</hi> Beams he doth all <hi>hurt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With ſpiteful <hi>Taunts,</hi> revengeful <hi>Threats</hi> they mix,</l>
+                  <l>Unleſs in <hi>unmov'd</hi> Poiſe his Chariot fix:</l>
+                  <l>But finding Threats provoke <hi>him,</hi> and his <hi>Speed,</hi>
+                  </l>
+                  <l>To <hi>ſtratagem</hi> and <hi>force</hi> they ſtreight proceed:</l>
+                  <l>Attempt to traſh his Wheels, and plunge his Steeds</l>
+                  <l>With <hi>unexpected</hi> Bogs, and <hi>heap'd up</hi> Weeds.</l>
+                  <l>
+                     <hi>Mud</hi> too their <hi>Dam</hi> (unnatural <hi>Brats</hi>) provoke</l>
+                  <l>To <hi>riſe</hi> 'gainſt their bright <hi>Siré</hi> in <hi>ſlimy</hi> ſmoke;</l>
+                  <l>In ſmoke ſo thick and dark, they nothing doubt,</l>
+                  <l>The <hi>Day</hi> and the <hi>Day-maker</hi> 'twould blot out.</l>
+               </lg>
+               <lg>
+                  <l>The angry <hi>God,</hi> to puniſh this <hi>proud</hi> Shoal,</l>
+                  <l>
+                     <hi>Burns,</hi> where he <hi>warm'd,</hi> with his <hi>Celeſtial</hi> Coal.</l>
+                  <l>Sulphureous <hi>Thunderbolts</hi> their <hi>Vapors</hi> prove,</l>
+                  <l>And on <hi>themſelves</hi> in <hi>ſtony</hi> Tempeſts move.</l>
+               </lg>
+               <lg>
+                  <l>In vain they lurk in hopes the Storm would ceaſe;</l>
+                  <l>Or in <hi>courſe</hi> Croaking Language ſue for <hi>Peace.</hi>
+                  </l>
+                  <l>
+                     <hi>Sol</hi> deaf to all round in bright Triumphs hurld,</l>
+                  <l>Conſumes their <hi>Flouds,</hi> and conquers their <hi>low World.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Frogs</hi> now and <hi>Toads</hi> like hiew'd, alike both fare;</l>
+                  <l>Both <hi>Boil'd, Roaſt, Bakt</hi> in their own <hi>Mud-paſte</hi> are;</l>
+                  <l>Both <hi>carbonabed,</hi> and both you might ſee,</l>
+                  <l>For <hi>Crows</hi> and <hi>Kites,</hi> cook'd into <hi>Frigacie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>One grac'd in <hi>Front</hi> with <hi>Wiſdom</hi>'s Jewel too,</l>
+                  <l>At laſt beſpake thus her <hi>expiring</hi> Crew.</l>
+                  <l>We now <hi>ungrateful</hi> find our <hi>Doom</hi> and <hi>Curſe;</hi>
+                  </l>
+                  <l>A <hi>Plague</hi> to <hi>Princes,</hi> to our <hi>Selves</hi> a <hi>worſe.</hi>
+                  </l>
+                  <l>Puniſht for Crimes <hi>great</hi> as our <hi>Patrons</hi> grown;</l>
+                  <l>Let's dread the <hi>Height</hi> and <hi>Vengeance</hi> of their <hi>Throne.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="translation">
+               <pb n="8" facs="tcp:30394:6"/>
+               <!-- PDF PAGE 59 -->
+               <head>The third Tranſlation.</head>
+               <epigraph>
+                  <q>
+                     <l>
+                        <hi>Riſe</hi> and <hi>Support</hi> to <hi>Me</hi> ye ow;</l>
+                     <l>And ſo ſhall do your <hi>Ovorthrow.</hi>
+                     </l>
+                     <bibl>Sen. Med.</bibl>
+                  </q>
+               </epigraph>
+               <head>The <hi>SUN</hi> and <hi>FROGS.</hi>
+               </head>
+               <lg>
+                  <l>THe <hi>Fenny</hi> Folk from noiſome <hi>Slime</hi> and <hi>Dung,</hi>
+                  </l>
+                  <l>Mixt <hi>Excrements</hi> of <hi>Earth</hi> and <hi>Water,</hi> ſprung,</l>
+                  <l>Through the rich Bounty of his <hi>kindly</hi> Ray,</l>
+                  <l>Who <hi>rules</hi> the ſpacious <hi>Empire</hi> of the <hi>Day,</hi>
+                  </l>
+                  <l>Enlarge, like <hi>hi<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> the Bounds of their <hi>Command,</hi>
+                  </l>
+                  <l>Than <hi>he</hi> more dreadful grow at <hi>Sea</hi> and <hi>Land.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>At <hi>Land</hi> ev'n Beaſts, Strangers till then to fear,</l>
+                  <l>Tremble, when they their horrid <hi>croakings</hi> hear.</l>
+                  <l>Their Hunger, which they dare not <hi>ſatisſie,</hi>
+                  </l>
+                  <l>
+                     <hi>Forget,</hi> and from beſt neighb'ring Paſtures flie;</l>
+                  <l>
+                     <hi>Wild</hi> to their <hi>Dens,</hi> ſeeking <hi>Protection</hi> there,</l>
+                  <l>And finding it from <hi>Danger,</hi> not from <hi>Fear.</hi>
+                  </l>
+                  <l>
+                     <hi>Tame</hi> to their <hi>Thickets,</hi> and there <hi>trembling</hi> lay 'em,</l>
+                  <l>Fearing their <hi>trembling</hi> too, leaſt it <hi>betray</hi> 'em.</l>
+                  <l>At <hi>Sea</hi> their <hi>numinous</hi> Shoals more dreadful grow,</l>
+                  <l>There oft they <hi>fight,</hi> as oft there <hi>conquer</hi> too.</l>
+                  <l>Nor <hi>common</hi> Enemies alone engage;</l>
+                  <l>
+                     <hi>Tunnies</hi> and <hi>Whales</hi> too feel their Martial Rage;</l>
+                  <l>
+                     <hi>Whales</hi> that of long unqueſtion'd Right make Claim,</l>
+                  <l>As the ſole <hi>Soveraigns</hi> of the liquid Main.</l>
+                  <l>Here <hi>Erogs</hi> now <hi>Lording</hi> it, ingrate become</l>
+                  <l>To their firſt <hi>Parent,</hi> and beſt <hi>Patron</hi> Sun;</l>
+                  <l>Behold his <hi>Glory</hi> with <hi>invidious</hi> Eyes,</l>
+                  <l>And his <hi>fair</hi> Beams <hi>ſmut</hi> with <hi>foul</hi> Calumnies.</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:30394:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 59 -->
+                  <l>If <hi>Indian</hi> Brine his Riſing Forehead Laves;</l>
+                  <l>If he dive ſetting in <hi>Iberian</hi> Waves;</l>
+                  <l>If to the Royal <hi>Lyon's</hi> Den he bring</l>
+                  <l>The choiceſt <hi>Tribute</hi> of his <hi>flowerie</hi> Spring;</l>
+                  <l>Or if he laſt from his exalted <hi>Noon</hi>
+                  </l>
+                  <l>
+                     <hi>Dimme</hi> the <hi>pale</hi> Viſage of the <hi>Horned Moon;</hi>
+                  </l>
+                  <l>Which way ſo e're he move, the <hi>Frogs</hi> complain;</l>
+                  <l>Croaking they <hi>fret,</hi> and fretting <hi>croak</hi> again:</l>
+                  <l>As if his fierie Beams about he hurl'd,</l>
+                  <l>To <hi>burn</hi> and <hi>waſte,</hi> not <hi>warm</hi> and <hi>cheer</hi> the World.</l>
+                  <l>Then in <hi>full Period</hi> charge him <hi>ſtop</hi> his <hi>Race;</hi>
+                  </l>
+                  <l>Threat'ning <hi>Revenge</hi> if he but <hi>change</hi> his <hi>Place.</hi>
+                  </l>
+                  <l>
+                     <hi>Hearing,</hi> not <hi>heeding</hi> Threats <hi>beneath</hi> his fear,</l>
+                  <l>On ſtill he drives, drives on in full <hi>Carreer.</hi>
+                  </l>
+                  <l>Doth then the <hi>Sun</hi> our Threats thus ſlight, ſay they,</l>
+                  <l>Too <hi>high</hi> to <hi>ſtoope,</hi> and too <hi>proud</hi> to <hi>obey?</hi>
+                  </l>
+                  <l>In this blind Rage with reſtleſs Feet they ſtir</l>
+                  <l>
+                     <hi>Water</hi> and <hi>Slime,</hi> and putrid <hi>Reeds,</hi> and <hi>Mire;</hi>
+                  </l>
+                  <l>Till a thick ſullen <hi>Vapour</hi> doth ariſe,</l>
+                  <l>And with <hi>ſubſtantial</hi> Darkneſs blacks the <hi>skies.</hi>
+                  </l>
+                  <l>What, ye <hi>ill Natur'd</hi> Vermine, what, quoth he,</l>
+                  <l>Can ſuch poor pieviſh <hi>Spleen,</hi> think ye, reach me?</l>
+                  <l>Can your dark <hi>Fogs</hi> me of my <hi>Luſtre</hi> ſpoil?</l>
+                  <l>(This ſpeaks with half a <hi>Frown</hi> and half a <hi>Smile</hi>)</l>
+                  <l>Your <hi>ſelves below</hi> ye <hi>cloud<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> I</hi> ſtill enjoy</l>
+                  <l>
+                     <hi>Above</hi> my <hi>Native</hi> and <hi>Eſſential</hi> Day.</l>
+                  <l>But ſo with <hi>Envie</hi> hath it us'd to fare,</l>
+                  <l>To drink of its own <hi>Poiſon</hi> the <hi>beſt</hi> ſhare:</l>
+                  <l>And ſo ſhall <hi>yours:</hi> The <hi>Weapons</hi> you now form</l>
+                  <l>Their fatal <hi>Points</hi> on your own <hi>Heads</hi> ſhall turn.</l>
+               </lg>
+               <lg>
+                  <l>With that, he calls home all his fierie <hi>Rays:</hi>
+                  </l>
+                  <l>And violent Cold the Ai'r's <hi>mid Region</hi> ſways:</l>
+                  <l>Which o're that new made <hi>Cloud</hi> doth ſtraight prevail;</l>
+                  <l>Condenſes firſt, then moulds it into <hi>Hail:</hi>
+                  </l>
+                  <l>
+                     <pb n="10" facs="tcp:30394:7"/>
+                     <!-- PDF PAGE 60 -->
+And in a Trice a ſmart ſwift <hi>ſtonie</hi> ſhow<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Doth on thoſe baſe ungrateful <hi>Vermine</hi> pour;</l>
+                  <l>Who now their <hi>Wounded</hi> Bodies hide in vain;</l>
+                  <l>In vain ſeek <hi>ſhelter</hi> from the <hi>pelting</hi> Rain,</l>
+                  <l>Whether they <hi>dive</hi> in <hi>Mud,</hi> or <hi>ſculk</hi> in <hi>Weeds,</hi>
+                  </l>
+                  <l>Or crawl from <hi>Danger</hi> under batterr'd <hi>Reeds:</hi>
+                  </l>
+                  <l>The <hi>S<g ref="char:V">Ʋ</g>N</hi> now glowing with <hi>revengeful</hi> Ire.</l>
+                  <l>Their naſtie <hi>Ponds</hi> dreigns with his fierceſt <hi>Fire;</hi>
+                  </l>
+                  <l>Till <hi>boild</hi> and <hi>roaſt</hi> the <hi>Vermine</hi> each where lay</l>
+                  <l>To <hi>Crows</hi> and <hi>Kites</hi> a ſweet and eaſie <hi>Prey.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When a <hi>grave Matron,</hi> that might well have been</l>
+                  <l>For her ſage <hi>Wiſdome</hi> their illuſtrious <hi>Queen,</hi>
+                  </l>
+                  <l>Had they not been <hi>Free States;</hi> 'midſt all the <hi>Frogs,</hi>
+                  </l>
+                  <l>That now lay <hi>gaſping</hi> round the <hi>parched</hi> Bogs,</l>
+               </lg>
+               <lg>
+                  <l>Her laſt breath forming in fit <hi>dying</hi> Tone,</l>
+                  <l>Was heard their ſo ſad <hi>Fate</hi> thus to bemoan.</l>
+               </lg>
+               <lg>
+                  <l>How Juſt the <hi>Gods</hi> are! how ungrateful <hi>We!</hi>
+                  </l>
+                  <l>How well deſerving ſuch our <hi>Deſtinie!</hi>
+                  </l>
+                  <l>Who <hi>War</hi> would wage 'gainſt ſuch both <hi>Friends</hi> and <hi>Ods:</hi>
+                  </l>
+                  <l>Oh henceforth learn to <hi>fear,</hi> not <hi>dare,</hi> the <hi>GODS.</hi>
+                  </l>
+               </lg>
+               <pb facs="tcp:30394:7"/>
+               <!-- PDF PAGE 60 -->
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
